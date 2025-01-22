@@ -1,0 +1,4 @@
+name: IntelliAlliances
+version: '0.0.1-SNAPSHOT'
+main: intellicraft.intellialliances.IntelliAlliances
+api-version: '1.21'
